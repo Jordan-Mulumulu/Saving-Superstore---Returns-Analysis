@@ -2,6 +2,8 @@ Saving Superstore – Returns Analysis
 
 Tableau Public Dashboard: https://public.tableau.com/views/SavingSuperstore-ReturnsAnalysis/RecommendedActionsandNextSteps?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+video Presentation: https://drive.google.com/file/d/1wLKBy8WOWAD1euzRBQalcHP-SuP3hxDk/view?usp=sharing
+
 📌 Project Overview
 
 This project analyzes product returns at the fictional "Superstore" to identify the main drivers behind return rates and provide actionable insights to reduce losses. The analysis leverages sales, returns, geographic, and time-based data to uncover trends, correlations, and high-risk areas.
